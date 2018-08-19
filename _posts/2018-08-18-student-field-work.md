@@ -2,7 +2,7 @@
 layout: post
 title:  "Student Project 2018"
 subtitle: "Investigating climate, soils and farming practices "
-date:   2018-08-18 19:00:00
+date:   2018-08-18 18:00:00
 author:  Wolfgang Gurgiser
 background: '/img/posts/bg-studentproject.jpg'
 ---
@@ -35,7 +35,7 @@ To get an idea which crops are grown on the investigated fields and which method
 <small> *Students conducing interviews with field owners.* </small>   
 
 #### Final remark
-We are fully aware that a lecture with 4 field days cannot yield neither comprehensive nor conclusive answers for complex research questions. Nevertheless, due to highly motivated students, this lecture might serve as useful intermediate step to facilitate further research activities. Furthermore, teaching and doing research merged during this activity which hopefully yields useful experiences and further opportunities (thesis building on the investigations) for the involved students. We (Martina Neuburger, Wolfgang Gurgiser) in our role as supervisors and curious researchers are thankful for the students' hard work and enthusiasm!  
+We are very thankful to [Aljeo Cochachín and Rolando Cruz as well as Hector Oropeza](https://agroclim-huaraz.info/about) who made this very diverse student project possible! We are fully aware that a lecture with 4 field days cannot yield neither comprehensive nor conclusive answers for complex research questions. Nevertheless, due to highly motivated students, this lecture might serve as useful intermediate step to facilitate further research activities. Furthermore, teaching and doing research merged during this activity which hopefully yields useful experiences and further opportunities (thesis building on the investigations) for the involved students. We (Martina Neuburger, Wolfgang Gurgiser) in our role as supervisors and curious researchers are thankful for the students' hard work and enthusiasm!  
 
 <a href="/img/posts/studentproject/Students.jpg"> <img src='/img/posts/studentproject/Students.jpg' width='100%'> </a>
 <small> *Students on their way to the study sites in the Cordillera Negra.* </small>
