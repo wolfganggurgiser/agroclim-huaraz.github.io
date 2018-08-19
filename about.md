@@ -23,7 +23,7 @@ Spatio-temporal variability in water availability and demand in the Peruvian And
 <br>
 
 <img src='/img/portraits/guwo_klein.jpg' width='12%' align='left' hspace='50'>
-[Wolfgang Gurgiser](http://acinn.uibk.ac.at/persons/wolfgang_gurgiser) ([Department of Atmospheric and Cryospheric Sciences](http://acinn.uibk.ac.at/), University of Innsbruck)
+[Wolfgang Gurgiser](http://acinn.uibk.ac.at/persons/wolfgang_gurgiser) ([Research Focus Alpine Space](https://www.uibk.ac.at/alpinerraum/index.html.en), University of Innsbruck)
 
 <br>
 
